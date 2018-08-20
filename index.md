@@ -10,13 +10,19 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, We may require you to provide us with certain personally identifiable information, including but not limited to device id, username, written in-game chat messages, session data, in-game choices (enemies defeated, items purchased etc), character data (level, equipment, skills etc). The information that we request is collected and sent to our third-party servers at GameSparks and GameAnalytics. This is done to enable multiplayer functionality, better understand our users through analytics, and for marketing purposes.
+While using our Service, We may ask you to provide us with certain personally identifiable information, including but not limited to, username and password. The information that we request is collected and sent to our third-party servers at GameSparks. This is done to enable multiplayer functionality, better understand our users through analytics, and for marketing purposes.
 
-The app does use third party services that may collect information used to identify you.
+While using our Service, We will automatically collect certain personally identifiable information, including but not limited to device id, written in-game chat messages, session data, device data, in-game choices (enemies defeated, items purchased etc), character data (level, equipment, skills etc). The information that we request is collected and sent to our third-party servers at GameSparks, GameAnalytics and Slack. This is done to enable multiplayer functionality, to administrate the chat, better understand our users through analytics, and for marketing purposes.
 
 Link to privacy policy of third party service providers used by the app
 
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [GameAnalytics](https://gameanalytics.com/privacy)
+*   [GameSparks](https://www.gamesparks.com/privacy-policy/)
+*   [Slack](https://slack.com/privacy-policy)
+
+**Retrieval and Deletion of Personal Data**
+
+You have the right to retrieve all personal data we collect, as well as the right to request a deletion of that data. We will handle such requests and send you your data in an electronic format. You may email us at vampiresfall@gmail.com for such requests.
 
 **Log Data**
 
