@@ -12,13 +12,15 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 While using our Service, We may ask you to provide us with certain personally identifiable information, including but not limited to, username and password. The information that we request is collected and sent to our third-party servers at GameSparks. This is done to enable multiplayer functionality, better understand our users through analytics, and for marketing purposes.
 
-While using our Service, We will automatically collect certain personally identifiable information, including but not limited to device id, written in-game chat messages, session data, device data, in-game choices (enemies defeated, items purchased etc), character data (level, equipment, skills etc). The information that we request is collected and sent to our third-party servers at GameSparks, GameAnalytics, Slack and Discord. This is done to enable multiplayer functionality, to administrate the chat, better understand our users through analytics, and for marketing purposes.
+While using our Service, We will automatically collect certain personally identifiable information, including but not limited to device id, written in-game chat messages, session data, device data, in-game choices (enemies defeated, items purchased etc), character data (level, equipment, skills etc). The information that we request is collected and sent to our third-party servers at GameSparks, GameAnalytics, Slack, Kochava, Facebook and Discord. This is done to enable multiplayer functionality, to administrate the chat, better understand our users through analytics, and for marketing purposes.
 
 Link to privacy policy of third party service providers used by the app
 
 *   [GameAnalytics](https://gameanalytics.com/privacy)
 *   [GameSparks](https://www.gamesparks.com/privacy-policy/)
 *   [Slack](https://slack.com/privacy-policy)
+*   [Kochava](https://www.kochava.com/kochava-collective/collective-data-privacy-policy/)
+*   [Facebook](https://www.facebook.com/legal/FB_Work_Privacy)
 *   [Discord](https://discordapp.com/privacy)
 
 **Retrieval and Deletion of Personal Data**
