@@ -1,6 +1,6 @@
 ## Vampire's Fall Origins Privacy Policy
 
-Emir Kuljanin, Kristian Andersson and Julijana Mijailovic built the Vampire's Fall Origins app as a Commercial app. This SERVICE is provided by Emir Kuljanin, Kristian Andersson and Julijana Mijailovic and is intended for use as is.
+Early Morning Studio AB built the Vampire's Fall Origins app as a Commercial app. This SERVICE is provided by Early Morning Studio AB and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -12,7 +12,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 While using our Service, We may ask you to provide us with certain personally identifiable information, including but not limited to, username and password. The information that we request is collected and sent to our third-party servers at GameSparks. This is done to enable multiplayer functionality, better understand our users through analytics, and for marketing purposes.
 
-While using our Service, We will automatically collect certain personally identifiable information, including but not limited to device id, written in-game chat messages, session data, device data, in-game choices (enemies defeated, items purchased etc), character data (level, equipment, skills etc). The information that we request is collected and sent to our third-party servers at GameSparks, GameAnalytics, Slack, Unity3D, Firebase, Kochava, Facebook and Discord. This is done to enable multiplayer functionality, to administrate the chat, better understand our users through analytics, and for marketing purposes.
+While using our Service, We will automatically collect certain personally identifiable information, including but not limited to device id, written in-game chat messages, session data, device data, in-game choices (enemies defeated, items purchased etc), character data (level, equipment, skills etc). The information that we request is collected and sent to our third-party servers at GameSparks, GameAnalytics, Slack, Unity3D, Firebase, AppsFlyer, Facebook and Tilting Point. This is done to enable multiplayer functionality, to administrate the chat, better understand our users through analytics, and for marketing purposes.
 
 Link to privacy policy of third party service providers used by the app
 
@@ -20,9 +20,9 @@ Link to privacy policy of third party service providers used by the app
 *   [GameSparks](https://www.gamesparks.com/privacy-policy/)
 *   [Slack](https://slack.com/privacy-policy)
 *   [Unity3D](https://unity3d.com/legal/privacy-policy)
-*   [Kochava](https://www.kochava.com/kochava-collective/collective-data-privacy-policy/)
+*   [AppsFlyer](https://www.appsflyer.com/services-privacy-policy/)
 *   [Facebook](https://www.facebook.com/legal/FB_Work_Privacy)
-*   [Discord](https://discordapp.com/privacy)
+*   [Tilting Point](https://www.tiltingpoint.com/privacy-policy/)
 
 **Retrieval and Deletion of Personal Data**
 
