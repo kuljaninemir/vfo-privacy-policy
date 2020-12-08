@@ -22,11 +22,10 @@ Link to privacy policy of third party service providers used by the app
 *   [Unity3D](https://unity3d.com/legal/privacy-policy)
 *   [AppsFlyer](https://www.appsflyer.com/services-privacy-policy/)
 *   [Facebook](https://www.facebook.com/legal/FB_Work_Privacy)
-*   [Tilting Point](https://www.tiltingpoint.com/privacy-policy/)
 
 **Retrieval and Deletion of Personal Data**
 
-You have the right to retrieve all personal data we collect, as well as the right to request a deletion of that data. We will handle such requests and send you your data in an electronic format. You may email us at vampiresfall@gmail.com for such requests.
+You have the right to retrieve all personal data we collect, as well as the right to request a deletion of that data. We will handle such requests and send you your data in an electronic format. You may email us at support@earlymorningstudio.com for such requests.
 
 **Log Data**
 
