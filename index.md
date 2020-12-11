@@ -1,4 +1,4 @@
-**VAMPIRE'S FALL: ORIGINS - PRIVACY POLICY**
+## Vampire's Fall Origins Privacy Policy
 
 By using our Services you are agreeing to the following Privacy Policy.
 
